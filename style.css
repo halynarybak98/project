@@ -1,0 +1,49 @@
+p {
+    color: grey;
+    font-size: 18px;
+}
+
+h1 {
+    color: chocolate;
+    text-align: center;
+}
+
+.favorite {
+    font-weight: bold;
+    background-color: purple;
+}
+
+#top {
+    background-color: darkmagenta;
+    color: white;
+    padding: 10px;
+    width: 200px;
+}
+
+a {
+    color: red;
+}
+
+nav a {
+    color: green;
+    text-decoration: none;
+}
+
+a:hover {
+    color: cornsilk;
+    background-color: brown;
+}
+
+a:visited {
+    color: grey;
+}
+
+.card img {
+    width: 200px;
+    opacity: 0.5;
+}
+
+.card img:hover {
+    width: 400px;
+    opacity: 1;
+}
